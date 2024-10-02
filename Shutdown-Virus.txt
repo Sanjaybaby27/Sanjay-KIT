@@ -1,4 +1,4 @@
-#  shutdown Virus Using Python !!
+#  shutdown Virus Using Python !..!
 
 import os
 while True:
